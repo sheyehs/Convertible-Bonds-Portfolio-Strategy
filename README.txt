@@ -1,0 +1,1 @@
+Two kinds of monthly buy-sell strategies, respectively in each ipynb file. Select bonds according to conditions and exclude the unqualified. Buy at the beginning of the month and sell at the end, or in advance if certain situation happens.
